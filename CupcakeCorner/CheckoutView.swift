@@ -65,7 +65,7 @@ struct CheckoutView: View {
             
             showingConfirmation = true
         } catch {
-            print("Checkout failed.")
+            print("Checkout failed. \(error)")
         }
     }
 }

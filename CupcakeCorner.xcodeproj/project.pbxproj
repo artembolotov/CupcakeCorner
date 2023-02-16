@@ -14,6 +14,7 @@
 		AB3B75DE299AABDD00A8B349 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3B75DD299AABDD00A8B349 /* Order.swift */; };
 		AB3B75E0299ABF3000A8B349 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3B75DF299ABF3000A8B349 /* AddressView.swift */; };
 		AB3B75E2299AC08300A8B349 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3B75E1299AC08300A8B349 /* CheckoutView.swift */; };
+		ABEDF5DB299DF447003236D2 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABEDF5DA299DF447003236D2 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		AB3B75DD299AABDD00A8B349 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		AB3B75DF299ABF3000A8B349 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
 		AB3B75E1299AC08300A8B349 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
+		ABEDF5DA299DF447003236D2 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				AB3B75DF299ABF3000A8B349 /* AddressView.swift */,
 				AB3B75E1299AC08300A8B349 /* CheckoutView.swift */,
 				AB3B75DD299AABDD00A8B349 /* Order.swift */,
+				ABEDF5DA299DF447003236D2 /* Extensions.swift */,
 				AB3B75D3299A642200A8B349 /* Assets.xcassets */,
 				AB3B75D5299A642200A8B349 /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AB3B75DE299AABDD00A8B349 /* Order.swift in Sources */,
+				ABEDF5DB299DF447003236D2 /* Extensions.swift in Sources */,
 				AB3B75E0299ABF3000A8B349 /* AddressView.swift in Sources */,
 				AB3B75E2299AC08300A8B349 /* CheckoutView.swift in Sources */,
 				AB3B75D2299A641E00A8B349 /* ContentView.swift in Sources */,
